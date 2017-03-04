@@ -2,8 +2,10 @@
 h1 {
   font-size: 100px;
   color: #000080;
+  font-family: 'Domine', serif;
 }
   p {
     font-size: 20px;
     color: #800080;
+    font-family: 'Domine', serif;
 }
